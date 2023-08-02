@@ -6,7 +6,7 @@ const Navbar = () => {
 
 
     return (
-        <div >
+        <div className=' mb-8' >
             <div className='h-28 flex items-center '>
                 <div className='mx-10 w-screen flex justify-between'>
                     <div className=' w-96 flex items-center'>
@@ -24,7 +24,7 @@ const Navbar = () => {
                         </div>
                         <div className='flex gap-10'>
                             <div>
-                                <button className=' h-10 w-20 bg-blue-600 rounded-2xl text-white'>Hire Me</button>
+                                <Link to='/hireme'><button className=' h-10 w-20 bg-blue-600 rounded-2xl text-white'>Hire Me</button></Link>
                             </div>
                         </div>
                     </div>
