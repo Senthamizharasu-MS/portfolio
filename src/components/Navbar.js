@@ -6,7 +6,7 @@ const Navbar = () => {
 
 
     return (
-        <div >
+        <div className=' mb-8' >
             <div className='h-28 flex items-center '>
                 <div className='mx-10 w-screen flex justify-between'>
                     <div className=' w-96 flex items-center'>

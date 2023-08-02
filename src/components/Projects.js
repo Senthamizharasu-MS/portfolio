@@ -5,7 +5,7 @@ import project from '../data'
 const Project = () => {
     return (
         <div>
-            <div className=' flex flex-col gap-10 '>
+            <div className=' flex flex-col gap-10 mb-10 '>
                 <p className='text-3xl font-semibold text-center'>My Projects</p>
                 <div className=' flex justify-center'>
                     <div className='grid grid-cols-2 gap-10'>
@@ -18,8 +18,6 @@ const Project = () => {
                                         <p className='text-center'>{item.technology}</p>
                                         <a className='flex justify-center' href={item.url}><button className='bg-blue-500 h-10 w-28 rounded-2xl text-white'>Visit</button></a>
                                     </div>
-
-
                                 </div>
                             )
                         }

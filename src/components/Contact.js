@@ -4,8 +4,8 @@ import React from "react";
 const ContactUs = () => {
 
     return (
-        <div className=" h-[37rem] flex items-center justify-center  ">
-            <div className="w-7/12 h-60 flex flex-col gap-10 justify-center items-center bg-gray-300 rounded-xl " >
+        <div className=" h-[35rem] flex items-center justify-center  ">
+            <div className="w-11/12 h-60 flex flex-col gap-10 justify-center items-center bg-gray-300 rounded-xl " >
                 <p className="text-3xl font-semibold">Contact Us</p>
                 <div className=" text-xl" >
                     <div className="flex gap-2">

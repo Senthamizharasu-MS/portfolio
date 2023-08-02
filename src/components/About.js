@@ -6,7 +6,7 @@ const About = () => {
             <div className='flex flex-col gap-10'>
                 <p className='text-3xl font-semibold text-center'>About Me</p>
                 <div className='flex justify-center'>
-                    <div className=' w-10/12 h-[32rem] flex flex-col justify-center items-center gap-8 bg-gray-100 rounded-3xl '>
+                    <div className=' w-10/12 h-[30.28rem] flex flex-col justify-center items-center gap-8 bg-gray-100 rounded-3xl '>
                         <p className=' text-4xl font-bold'>Senthamizharasu M S</p>
                         <div className='w-11/12 flex flex-col gap-5'>
                             <p className='text-lg text-center'>Hi there! I am Senthamizharasu M S,a web and mobile app developer, as well as a UI/UX designer. With a passion for creating beautiful and functional digital experiences, I have honed my skills in front-end development, user interface design, and user experience research.
