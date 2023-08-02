@@ -24,7 +24,7 @@ const Navbar = () => {
                         </div>
                         <div className='flex gap-10'>
                             <div>
-                                <button className=' h-10 w-20 bg-blue-600 rounded-2xl text-white'>Hire Me</button>
+                                <Link to='/hireme'><button className=' h-10 w-20 bg-blue-600 rounded-2xl text-white'>Hire Me</button></Link>
                             </div>
                         </div>
                     </div>
